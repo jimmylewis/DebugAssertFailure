@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28525.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebugAssertFailure", "DebugAssertFailure\DebugAssertFailure.csproj", "{08891FBD-43B8-45C1-9E4C-F6625557E907}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08891FBD-43B8-45C1-9E4C-F6625557E907}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08891FBD-43B8-45C1-9E4C-F6625557E907}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08891FBD-43B8-45C1-9E4C-F6625557E907}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08891FBD-43B8-45C1-9E4C-F6625557E907}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCEC9FB7-FAD0-4870-8652-9427B596C16B}
+	EndGlobalSection
+EndGlobal
